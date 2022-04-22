@@ -1,2 +1,1 @@
-The first line in README.md
-It is the second line
+Домашние работы по курсу Автоматизация тестирования с помощью Selenium и Python https://stepik.org/lesson/187065/step/10
