@@ -1,2 +1,2 @@
-# stepik_auto_tests_course
-Homework by course 
+The first line in README.md
+It is the second line
